@@ -85,9 +85,11 @@ SH4;NCM_curto
 8483;Veios de transmissão e manivelas
 8501;Motores e geradores elétricos
 8503;Partes de motores e geradores elétricos
+8507;Acumuladores elétricos e seus separadores
 8511;Aparelhos e dispositivos elétricos de ignição
 8512;Aparelhos de iluminação em bicicletas
 8517;Aparelhos telefônicos
+8534;Circuitos impressos
 8537;Quadros para ditribuição de energia elétrica
 8541;Diodos, transistores e outros semicondutores
 8542;Circuitos eletrônicos
@@ -96,6 +98,7 @@ SH4;NCM_curto
 8703;Automóveis de passageiros (exceto vans e ônibus maiores)
 8708;Partes e acessórios de veículos
 9018;Eletrocardiógrafos
+9022;Aparelhos de raios X
 9026;Aparelhos para medida de vazão
 9028;Controladores de gases
 9032;Aparelhos para controlo
